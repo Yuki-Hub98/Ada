@@ -5,4 +5,5 @@ Se estiver com node instalado por favor execute:
 ````
 node .\exercicio.js
 ````
-para executar o arquivo.
+para executar o arquivo. <br>
+[Lista de exercicio](https://github.com/yurifreitas/POO/tree/main/aula-04)
